@@ -54,7 +54,8 @@
 ```
 
 ## ❓ Q & A
-- [Discussion Playground](https://github.com/HalaFrontend/FirstSelfStudy/discussions/categories/q-a)
+- [Github Discussion Playground](https://github.com/HalaFrontend/FirstSelfStudy/discussions/categories/q-a)
+- [Slack Playground](https://halafrontend.slack.com/archives/C02461LEQ4B)
 
 ## 👀 Wiki 
 - [More Information](https://github.com/HalaFrontend/FirstSelfStudy/wiki)
