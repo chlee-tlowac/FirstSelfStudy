@@ -61,11 +61,11 @@
 - [More Information](https://github.com/HalaFrontend/FirstSelfStudy/wiki)
 
 ## 👩🏻‍💻 Members
-|                                🖥️ Full Stack                                |                                🖥️ Full Stack                                |                                🖥️ Frontend                                |                              🖥️ Frontend                                |
+|                                🖥️ Full Stack                                |                                🖥️ Full Stack                                |                                 🖥️ Frontend                                 |                                 🖥️ Frontend                                 |
 | :------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------------------------------: |
 | ![avatar-image](https://avatars.githubusercontent.com/u/71730381?s=48&v=4) | ![avatar-image](https://avatars.githubusercontent.com/u/58043975?s=48&v=4) | ![avatar-image](https://avatars.githubusercontent.com/u/53428259?s=48&v=4) | ![avatar-image](https://avatars.githubusercontent.com/u/45154110?s=48&v=4) |
-|                 **[~ 변성준](https://github.com/dooking)**                 |           **[단비코리아 이창훈](https://github.com/geonwoomun)**           |               **[디버 배하은](https://github.com/haeunbae)**                |               **[원더월 백인재](https://github.com/InJaEE)**                |
-|                               **한마디씩 😎**                               |                               **한마디씩 😎**                               |                               **생각하자 😎**                               |                               ☠️🙃🙃🙃☠️                               |
+|                 **[~ 변성준](https://github.com/dooking)**                 |          **[단비코리아 이창훈](https://github.com/chlee-tlowac)**          |               **[디버 배하은](https://github.com/haeunbae)**               |               **[원더월 백인재](https://github.com/InJaEE)**               |
+|                               **한마디씩 😎**                               |                             **✧*｡٩(ˊᗜˋ*)و✧*｡**                             |                               **생각하자 😎**                               |                                   ☠️🙃🙃🙃☠️                                    |
 
 
 ## ⭐ Show your support
